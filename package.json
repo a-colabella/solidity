@@ -1,0 +1,17 @@
+{
+  "name": "solidity-portfolio",
+  "version": "1.0.0",
+  "description": "Andrew Colabella's solidity portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andrew Colabella",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
